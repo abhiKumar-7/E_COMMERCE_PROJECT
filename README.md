@@ -1,7 +1,8 @@
 #E-commerce Shopping Cart
+
 Link: https://e-commerce-project-k5b9.onrender.com
 
-Overview
+Overview:
 This is a single-page e-commerce shopping cart web application built with HTML, CSS, and JavaScript. It allows users to browse a list of products, add or remove items from a cart, and view real-time price totals. The application features a modern, dark-themed, responsive interface with accessibility considerations and uses LocalStorage to persist cart data across sessions.
 
 Key Features:
