@@ -5,9 +5,15 @@ This is a single-page e-commerce shopping cart web application built with HTML, 
 
 Key Features:
 
-.Product Management: Add or remove products from the cart with quantity tracking for duplicates.
-.Real-Time Updates: Dynamically updates the total price as items are added or removed.
-.Persistent Storage: Saves cart contents using LocalStorage for session continuity.
-.Responsive Design: Mobile-friendly layout with smooth hover effects and transitions.
-.Accessibility: Includes ARIA labels for buttons to support screen readers.
-.Checkout Functionality: Displays a summary of cart contents before clearing on checkout.
+Product Management: Add or remove products from the cart with quantity tracking for duplicates.
+
+Real-Time Updates: Dynamically updates the total price as items are added or removed.
+
+Persistent Storage: Saves cart contents using LocalStorage for session continuity.
+
+Responsive Design: Mobile-friendly layout with smooth hover effects and transitions.
+
+Accessibility: Includes ARIA labels for buttons to support screen readers.
+
+Checkout Functionality: Displays a summary of cart contents before clearing on checkout.
+
